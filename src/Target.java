@@ -93,7 +93,7 @@ public class Target
     /* create subsets of the list
      * PARAMS:
      * @n -> the linked list object
-     * @len -> the counter
+     * @counter -> the counter to be compared to control
      * @control -> the control to make sure the recursion eventually stops
      * @subset -> the subset will be returned
      * @target -> target value
